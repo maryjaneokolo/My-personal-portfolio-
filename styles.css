@@ -55,6 +55,22 @@ ul {
   max-width: 700px;
 }
 
+/* 👤 Hero Image Positioned at Right Edge of Page */
+.profile-image {
+  position: absolute;
+  top: 100px; /* adjust vertical position as needed */
+  right: 40px; /* distance from the right edge of the page */
+  width: 140px;
+  height: 150px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 4px solid #00bfff;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.4);
+  z-index: 10;
+}
+
+
+
 .hero h1 {
   font-size: 3rem;
   color: #ffffff;

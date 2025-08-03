@@ -3,20 +3,23 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Maryjane Okolo | Portfolio</title>
+  <title>Maryjane Okolo|Portfolio</title>
   <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
   <header class="hero">
     <div class="container">
-      <h1>I'M MARYJANE</h1>
-      <h2>Aspiring Software Engineer | CRM Specialist | Dental Therapist</h2>
-      <p>I love turning ideas into beautiful, interactive experiences.</p>
-      <div class="hero-buttons">
-        <a href="#Projects" class="btn">View Projects</a>
-        <a href="Maryjane.pdf" class="btn download" download target="_blank">Download CV</a>
+       <!-- Add your image -->
+       <img src="Maryjane.jpg" alt="Maryjane Okolo" class="profile-image" />
 
-      </div>
+       <h1>Hi, I'm Maryjane Okolo</h1>
+       <h2>Aspiring Software Engineer|CRM Specialist|Dental Therapist</h2>
+       <p>I love turning ideas into beautiful, interactive experiences.</p>
+       <div class="hero-buttons">
+         <a href="#Projects" class="btn">View Projects</a>
+         <a href="Maryjane.pdf" class="btn download" download target="_blank">Download CV</a>
+
+       </div>
     </div>
   </header>
 
